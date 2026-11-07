@@ -1,3 +1,35 @@
+# NamEon Kim
+
+**AI Solutions Architect | Full-Stack Software Engineer | Cloud & Enterprise Architecture**
+
+Seoul, South Korea · [nameonb0507@gmail.com](mailto:nameonb0507@gmail.com) · KakaoTalk: `knenene` · LinkedIn: linkedin profile · [WhatsApp](https://wa.me/821030512701) (`+82 10-3051-2701`)
+
+> **UK relocation and work authorization:** I plan to relocate to the UK and apply independently from South Korea for a Youth Mobility Scheme (YMS) visa. The route is subject to standard visa approval and, if granted, provides the right to work without employer visa sponsorship. I am targeting northern England, especially Manchester and Liverpool, where I can access my partner's home. I will also consider other UK locations where suitable accommodation can be secured.
+
+## Professional Summary
+
+Software Engineer and Solution Architect with approximately six years of IT experience spanning enterprise software, cloud infrastructure, solution architecture, and end-to-end IT delivery. Currently contributing to Samsung Electronics DS Cloud projects in a technical leadership capacity across full-stack engineering, private cloud solutions, and enterprise system integration.
+
+Delivered complex projects in financial services, government platforms, insurance, ERP, and cloud infrastructure. Freelance engagements have typically run for 6–12 months, working alongside established client teams and adapting quickly to new technical environments. Seeking a permanent, long-term role with ownership of technical challenges and room to grow with one organization.
+
+Comfortable moving between legacy financial mainframes built on C and Proframe and modern private-cloud and AI/LLM pipelines on VMware Cloud Foundation (VCF) 9.1. Able to learn unfamiliar codebases and technologies quickly and carry work from initial design through reliable production delivery.
+
+## Technical Expertise
+
+- **Systems modernization and adaptation:** Rapidly assimilates unfamiliar codebases, legacy architectures, and new technologies, from C-based financial cores to private/public cloud and AI frameworks.
+- **Languages and runtimes:** Java, C, Python, Go, JavaScript/TypeScript, SQL, PL/SQL.
+- **Frameworks and enterprise toolchains:** Spring Boot, Vue.js, C-based Proframe, Node.js, Flutter.
+- **Private cloud and virtualization:** VMware Cloud Foundation (VCF 8/9.1), virtualization, REST APIs, workflows, GPU resource management, Private Cloud Management Systems (PCMS).
+- **Public cloud and DevOps:** AWS, Kubernetes, Docker, Jenkins, GitHub, CI/CD, Pro DevOps Platform (P-DEP).
+- **Data and messaging:** Oracle Database, SQL, Redis, Apache Kafka, data modeling (DA#), metadata architecture, Firebase/NoSQL.
+- **AI engineering and enterprise GenAI:** Local LLMs (Llama), model cost and hardware optimization, vGPU/GPU resource allocation, enterprise RAG, cloud-secure AI integration, Claude, OpenCode, coding agents (Vibe/Harness Coding), MCP integrations for Confluence/Jira/wiki synchronization, automated unit and integration testing, legacy code refactoring.
+
+## Professional Experience
+
+### Samsung Electronics — DS Cloud Solution Group (AX/PI)
+**Solution Architect / IT Section Manager** · Giheung, South Korea · Sep 2026–Present  
+Contracted through JJR · Partner: Metanet
+
 - Led architecture and backend delivery of an enterprise-wide Private Cloud Management System (PCMS) on VMware Cloud Foundation (VCF 8/9.1), coordinating VM resource allocation and cost governance for internal users across Korea, the US, China, and India. Structured management across regional availability groups, locations, and test environments.
 - Engineered and validated high-performance REST APIs and workflows spanning VCF 8 and 9.1 to improve throughput and resource reliability. Designed GPU resource management to allocate A100, V100, and H100 accelerators to target virtual machines.
 - Managed enterprise cloud infrastructure using Kubernetes, Docker, Kafka, Redis, and Oracle DB through the Pro DevOps Platform (P-DEP). Supported deployments with GitHub branching practices and cross-team coordination.
