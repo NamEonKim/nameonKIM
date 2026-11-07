@@ -1,137 +1,71 @@
-<div align="center">
+- Led architecture and backend delivery of an enterprise-wide Private Cloud Management System (PCMS) on VMware Cloud Foundation (VCF 8/9.1), coordinating VM resource allocation and cost governance for internal users across Korea, the US, China, and India. Structured management across regional availability groups, locations, and test environments.
+- Engineered and validated high-performance REST APIs and workflows spanning VCF 8 and 9.1 to improve throughput and resource reliability. Designed GPU resource management to allocate A100, V100, and H100 accelerators to target virtual machines.
+- Managed enterprise cloud infrastructure using Kubernetes, Docker, Kafka, Redis, and Oracle DB through the Pro DevOps Platform (P-DEP). Supported deployments with GitHub branching practices and cross-team coordination.
+- Helped establish enterprise Cloud LLM adoption, using OpenCode MCP, local Llama models, and RAG pipelines for AS-IS analysis, legacy refactoring, and automated unit/integration testing of complex MSA backends and batch pipelines.
+- Established and shared architectural and messaging standards across development teams to resolve legacy interface inconsistencies, reduce delivery friction, and support reliable production validation.
 
-# NamEon Kim
+### Shinhan Securities (Shinhan Investment Corp. / Shinhan DS)
+**Software Engineer** · Seoul, South Korea · Jan 2026–Aug 2026  
+Contracted through Zeit Solution
 
-### Software Engineer · Solution Architect · Enterprise Technology
-
-**Designing, engineering, and delivering enterprise-grade systems — from architecture to production.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nameonb0507@gmail.com)
-![Location](https://img.shields.io/badge/Location-Seoul%2C%20South%20Korea-555555?style=flat-square)
-
-</div>
-
----
-
-## About Me
-
-I'm a Software Engineer and Solution Architect with approximately **six years of experience** delivering enterprise software, cloud infrastructure, and mission-critical systems.
-
-My experience spans financial services, government platforms, and large-scale private cloud environments. I work across the full delivery lifecycle — understanding business and technical requirements, shaping solution architecture, implementing services, integrating platforms, and supporting production delivery.
-
-I currently contribute to **Samsung Electronics DS Cloud** initiatives in a technical leadership capacity, focusing on private cloud management, VMware Cloud Foundation, infrastructure automation, and enterprise AI-assisted engineering.
-
-I enjoy working on complex systems where architecture, reliability, security, and practical delivery all matter.
-
-## Areas of Focus
-
-| Area | Focus |
-|---|---|
-| **Solution Architecture** | Enterprise architecture, system integration, technical design, API and workflow design |
-| **Backend & Full-Stack Engineering** | Java, Spring Boot, C, Python, JavaScript/TypeScript, Vue.js |
-| **Cloud & Infrastructure** | VMware Cloud Foundation, private cloud, AWS, Kubernetes, Docker |
-| **AI Engineering** | Enterprise LLM integration, RAG, local models, AI coding agents, MCP |
-| **Data & Messaging** | Oracle Database, SQL, Redis, Apache Kafka, data modelling |
-| **Engineering Leadership** | Technical standards, mentoring, cross-team collaboration, end-to-end delivery |
-
-## Selected Experience
-
-### Samsung Electronics — DS Cloud Solution Group (AX/PI)
-**Solution Architect / IT Section Manager** · September 2026 – Present
-
-- Contributing to the architecture and backend delivery of an enterprise Private Cloud Management System (PCMS) built on VMware Cloud Foundation 8/9.1.
-- Working on global VM resource allocation, cost governance, and multi-region cloud management.
-- Engineering REST APIs and workflows integrating VCF environments, including GPU resource allocation.
-- Supporting cloud and DevOps integration using Kubernetes, Docker, Kafka, Redis, Oracle Database, and P-DEP.
-- Exploring enterprise AI-assisted legacy analysis, code refactoring, RAG, and automated testing using local LLMs and MCP-enabled tools.
-
-### Shinhan Investment Securities
-**Software Engineer** · January 2026 – August 2026
-
-- Contributed to next-generation financial system modernisation, including migration of 300+ C-based core transaction services.
-- Worked on core and information database architecture, data modelling, and real-time/batch processing separation.
-- Optimised complex SQL operations in a secure closed-network environment.
-- Supported engineering standards, technical mentoring, and team knowledge-sharing workflows.
+- Drove modernization for a tier-one investment securities firm, migrating more than 300 C-based core transaction services across individual/corporate CRM, internal control, and compliance domains. Standardized data models, ERDs, and domain-to-database mappings.
+- Designed and decoupled core (account/transaction) and information database architectures, separating real-time streaming from batch processing for sensitive fund, messaging, customer, and account data across WTS, HTS, and MTS trading platforms.
+- Tuned complex, long-running SQL queries in a secure closed-network environment using Hiware, achieving sub-second execution for select, insert, update, and delete operations while producing required compliance audit trails.
+- Served as technical lead and mentor for junior engineers; delivered technical training, standardized Wiki/Jira workflows, and built a centralized Mattermost troubleshooting repository for recurring errors, warnings, and long-running tasks.
 
 ### Ministry of the Interior and Safety (MOIS)
-**Software Engineer** · January 2025 – December 2025
+**Software Engineer** · Seoul, South Korea · Jan 2025–Dec 2025  
+Contracted through Credif
 
-- Owned engineering and operations for a national disqualification verification platform.
-- Worked on high-availability operations, monitoring, and automated legal-data synchronisation.
-- Integrated government identity and access-control systems, including LDAP and Mobile Government Employee ID SSO.
-- Coordinated technical communication across government agencies and public-sector stakeholders.
+- Solely owned, engineered, and operated the national Disqualification Verification System, a Level-1 critical national platform supporting eligibility checks for public service, voting rights, and foreign travel clearances. Maintained high-availability DevOps and continuous monitoring with a zero-incident record during the engagement.
+- Built automated synchronization between National Law Information systems and core databases to keep criminal-record, bankruptcy, and guardianship data aligned with changing statutory frameworks.
+- Maintained user-access controls through government LDAP audits and modernized public-service authentication by integrating and validating Mobile Government Employee ID SSO platforms.
+- Served as primary technical liaison and presenter across government agencies, law enforcement, prosecution authorities, and local municipalities on the Administrative Information Sharing Platform; delivered technical training and supported strategy alignment with senior officials.
 
-### Earlier Enterprise Delivery
+### Korea Expert
+**Software Engineer, Full-time** · Seoul, South Korea · Oct 2021–Feb 2023
 
-Additional experience includes enterprise insurance platforms, fraud detection systems, underwriting workflows, ERP customisation, HR and payroll systems, and software quality assurance.
+- Delivered enterprise insurance solutions for clients including SK AX, Korea Post Financial Services, Hanwha Life Insurance, and AIG Insurance, adapting to varied architectures and project deadlines.
+- Developed underwriting, claims-assessment, and risk-management backend logic, as well as UI components for Fraud Detection Systems (FDS) to support fraud mitigation and operational workflows.
+- Designed and implemented Government OTP authentication for regulated financial environments, following security and data-exchange requirements.
+- Built underwriting review systems with digital manuals, real-time operational dashboards, and statistical reporting to support back-office decisions.
 
-## Technology Stack
+### DBVision
+**Software Engineer, Full-time** · Gasan Digital Complex, Seoul, South Korea · Jan 2021–Oct 2021
 
-<div align="center">
+- Customized ERP solutions for government-affiliated research institutions, including the Korea Rural Economic Institute (KREI), to fit organizational workflows.
+- Developed, maintained, and optimized backend and frontend modules for HR, payroll, and shared services, supporting internal operations and administrative data accuracy.
 
-**Languages**
+## Early Career and Internships
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+### Korea Management Association Consulting (KMAC)
+**IT Support & Infrastructure Engineer, Contract** · Seoul, South Korea · Jul 2023–Aug 2023
 
-**Frameworks & Platforms**
+- Managed, provisioned, and supported rental PC terminals and mission-critical end-user hardware for enterprise stakeholders and large corporate events.
+- Performed system deployment, hardware/software diagnostics, and troubleshooting to maintain terminal availability and responsive support.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+### Oky Lab
+**IT Infrastructure & System Operations Intern** · Gyeonggi-do, South Korea · Dec 2020
 
-**Cloud, DevOps & Data**
+- Completed a university-sponsored IT internship with hands-on exposure to enterprise system operations, software development lifecycles, and technical troubleshooting.
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+### ID Hospital Korea
+**System QA & CX Operations Specialist, Contract** · Seoul, South Korea · Dec 2019–Feb 2020
 
-**AI Engineering**
+- Tested and validated customer-management platforms during university term breaks, supporting reliability, user experience, and digital service delivery.
 
-![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-412991?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-555555?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+### TMON (Ticket Monster)
+**E-commerce QA & Platform Verification Specialist, Contract** · Seoul, South Korea · Jul 2019–Sep 2019
 
-</div>
+- Conducted functional testing and system QA for high-traffic e-commerce platforms, working with cross-functional teams to resolve usability issues and support platform stability.
 
-## Certifications & Education
+## Education and Certifications
 
-- **B.Eng. — Artificial Intelligence & Software Engineering (Double Major)**  
-  Kyungpook National University · February 2025
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** · July 2026
-- **Engineer Information Processing** · HRD Korea · June 2024
+- **Kyungpook National University** — Bachelor of Engineering (B.Eng.), double major in Artificial Intelligence and Software Engineering · Graduated Feb 2025.
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** — Amazon Web Services · Issued Jul 2026.
+- **Engineer Information Processing** — HRD Korea, national technical qualification · Issued Jun 2024.
 
 ## Languages
 
-- Korean — Native
-- English — Professional working proficiency
-
-## What I'm Exploring
-
-- AI-native software development and agent orchestration
-- Enterprise RAG and secure LLM integration
-- MCP-based engineering workflows and developer productivity
-- Cloud architecture, infrastructure automation, and platform engineering
-
----
-
-<div align="center">
-
-**Interested in enterprise engineering, cloud architecture, and practical AI adoption?**
-
-Feel free to connect.
-
-</div>
+- **Korean:** Native.
+- **English:** Professional working proficiency; fluent in technical collaboration and business communication.
