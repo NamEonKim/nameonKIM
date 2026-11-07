@@ -2,9 +2,7 @@
 
 **AI Solutions Architect | Full-Stack Software Engineer | Cloud & Enterprise Architecture**
 
-Seoul, South Korea · [nameonb0507@gmail.com](mailto:nameonb0507@gmail.com) · KakaoTalk: `knenene` · LinkedIn: linkedin profile · [WhatsApp](https://wa.me/821030512701) (`+82 10-3051-2701`)
-
-> **UK relocation and work authorization:** I plan to relocate to the UK and apply independently from South Korea for a Youth Mobility Scheme (YMS) visa. The route is subject to standard visa approval and, if granted, provides the right to work without employer visa sponsorship. I am targeting northern England, especially Manchester and Liverpool, where I can access my partner's home. I will also consider other UK locations where suitable accommodation can be secured.
+[nameonb0507@gmail.com](mailto:nameonb0507@gmail.com) · KakaoTalk: `knenene` · LinkedIn: linkedin profile · [WhatsApp](https://wa.me/821030512701) (`+82 10-3051-2701`)
 
 ## Professional Summary
 
