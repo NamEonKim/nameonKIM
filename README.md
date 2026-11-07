@@ -2,7 +2,7 @@
 
 **AI Solutions Architect | Full-Stack Software Engineer | Cloud & Enterprise Architecture**
 
-• Email: [nameonb0507@gmail.com](mailto:nameonb0507@gmail.com) • LinkedIn: linkedin profile • WhatsApp: [+82 10-3051-2701](https://wa.me/821030512701)
+• Email: [nameonb0507@gmail.com](mailto:nameonb0507@gmail.com) • LinkedIn: [linkedin profile](https://www.linkedin.com/in/nameonkim) • WhatsApp: [+82 10-3051-2701](https://wa.me/821030512701)
 
 🚨 **NO EMPLOYER VISA SPONSORSHIP REQUIRED**
 
