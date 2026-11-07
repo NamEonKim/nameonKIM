@@ -9,7 +9,6 @@
 ## UK RELOCATION & VISA STATUS
 
 - **Visa Route:** I plan to relocate to the UK and apply for a Youth Mobility Scheme (YMS) visa independently from South Korea. This visa route grants full right to work and does not require employer visa sponsorship (subject to standard visa approval).
-- **Target Locations & Accommodation:** I plan to be based in the north of England, with immediate access to my partner's home. Manchester and Liverpool are both practical work locations for me, and I am ready to discuss opportunities in either city. I will also consider other UK locations where suitable accommodation can be secured.
 
 ## PROFESSIONAL SUMMARY
 
